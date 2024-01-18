@@ -1,7 +1,7 @@
 # Digital-Logic-Game
 A simple gamified fork of Sebastian Lagues digital logic sim created as part of his video series: [Exploring How Computers Work](https://www.youtube.com/playlist?list=PLFt_AvWsXl0dPhqVsKt1Ni_46ARyiCGSq).
 
-You are given a truth table and your task is to replicate it using the blocks at your disposal, get a high score by using as few as possible.
+This is my first time using Unity so it may be a while before it works. The plan for this fork is that you would be given a truth table, and you'd need to replicate it using the blocks at your disposal, and possibly get a high score by using as few as possible.
 # License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
